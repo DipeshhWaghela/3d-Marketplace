@@ -1,0 +1,475 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 1920;
+  }
+  
+  html,body
+  {
+    padding: 0;
+  }
+  
+  body {
+   
+    font-family: 'gfontinter', sans-serif;
+    overflow-x: hidden;
+    
+    
+  }
+  
+  .homepage-child,
+  .homepage-item {
+    font-family: 'gfontinter', sans-serif;
+    position: absolute;
+    left: 0;
+    width: 1916px;
+  }
+  .homepage-child {
+    top: 0;
+    background: conic-gradient(
+      from 90.16deg at 50% 50%,
+      #000 0deg,
+      rgba(162, 0, 188, 0.15) 360deg
+    );
+    height: 1309px;
+  }
+  .homepage-item {
+    top: 10845px;
+    background-color: var(--color-lime);
+    height: 2706px;
+  }
+  .free {
+    color: var(--color-lime);
+  }
+  .assets,
+  .games,
+  .materials,
+  .open-source-game-code-container {
+  
+    font-family: inherit;
+    font-size: 60px;
+    position: absolute;
+    left: 149px;
+    font-weight: 900;
+    color: var(--color-white);
+  }
+  .open-source-game-code-container {
+    font-family: inherit;
+    top: 296px;
+    font-size: var(--font-size-77xl);
+    display: inline-block;
+    width: 1294px;
+    height: 250px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .assets,
+  .games,
+  .materials {
+    text-decoration: none;
+    top: 728px;
+  }
+  .games,
+  .materials {
+    left: 469px;
+  }
+  .games {
+    left: 908px;
+  }
+  .bizaare-games,
+  .each-game-source {
+    margin: 0;
+    position: absolute;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+  }
+  .each-game-source {
+    top: 11044px;
+    left: 346px;
+    font-size: var(--font-size-21xl);
+    color: var(--color-white);
+    width: 1224.81px;
+    height: 663.46px;
+  }
+  .bizaare-games {
+    top: 13278px;
+    left: 201px;
+    font-size: 128px;
+    width: 583px;
+    height: 488px;
+  }
+  .share-your-feedback {
+    font-family: inherit;
+    text-decoration: none;
+    top: 12566px;
+    left: 308px;
+    font-size: var(--font-size-29xl);
+    color: inherit;
+    width: 1469.4px;
+    height: 138.93px;
+  }
+  .realism-is-part,
+  .share-your-feedback,
+  .you-can-copy {
+    font-family: inherit;
+    font-size: var(--font-size-29xl);
+    position: absolute;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block;
+  }
+  .you-can-copy {
+    font-family: inherit;
+    margin: 0;
+    top: 12090px;
+    left: 115px;
+    font-size: var(--font-size-29xl);
+    width: 1685.18px;
+    height: 609.24px;
+  }
+  .realism-is-part {
+    top: 12976px;
+    left: 401px;
+    width: 1114px;
+    height: 183px;
+  }
+  .privacy-policy,
+  .terms-conditions {
+    font-size: var(--font-size-21xl);
+    font-weight: 900;
+    color: inherit;
+    display: inline-block;
+  }
+  .privacy-policy {
+    text-decoration: none;
+    position: absolute;
+    top: 14315px;
+    left: 175px;
+    width: 480px;
+    height: 92px;
+  }
+  .terms-conditions {
+    top: 14427px;
+    left: 174px;
+    width: 584px;
+    height: 96px;
+  }
+  .contact,
+  .greenblueprint2-1,
+  .terms-conditions {
+    
+    text-decoration: none;
+    position: absolute;
+  }
+  .contact {
+    top: 14549.99px;
+    left: 175.1px;
+    font-family: inherit;
+    font-size: var(--font-size-21xl);
+    font-weight: 900;
+    color: inherit;
+    display: inline-block;
+    width: 317.42px;
+    height: 184.01px;
+  }
+  .greenblueprint2-1 {
+    top: 47px;
+    left: 149px;
+    width: 137.01px;
+    height: 118.99px;
+    background-image: url(greenblueprint2-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .homepage-inner {
+    position: absolute;
+    top: 1309px;
+    left: 0;
+    background: radial-gradient(
+      50% 50%at 50% 50%,
+      #66007b,
+      rgba(217, 217, 217, 0)
+    );
+    width: 1916px;
+    height: 680px;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 6734px;
+    left: 1px;
+    width: 1915px;
+    height: 1359px;
+  }
+  .we-are-not,
+  .why-to-choose {
+    position: absolute;
+    font-weight: 900;
+    display: inline-block;
+  }
+  .why-to-choose {
+    font-family: inherit;
+    top: 7112px;
+    left: 182px;
+    font-size: var(--font-size-77xl);
+    color: var(--color-white);
+    width: 973px;
+    height: 215px;
+  }
+  .we-are-not {
+    font-family: inherit;
+    top: 7408px;
+    left: 261px;
+    font-size: var(--font-size-21xl);
+    text-align: center;
+    width: 655.68px;
+    height: 477.21px;
+  }
+  .astore-1 {
+    text-decoration: none;
+    position: absolute;
+    top: 6910px;
+    left: 1250px;
+    border-radius: 221.38px;
+    width: 450px;
+    height: 457.36px;
+    background-image: url(astore-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .rectangle-section {
+    position: absolute;
+    top: 8093px;
+    left: 0;
+    background: conic-gradient(
+      from 211.54deg at 50% 50%,
+      #42ff00 0deg,
+      rgba(162, 0, 188, 0.15) 360deg
+    );
+    width: 1916px;
+    height: 2752px;
+  }
+  .gundam-evolution-free {
+    margin: 0;
+    position: absolute;
+    top: 8200px;
+    left: 106px;
+    font-size: 55px;
+    font-weight: 900;
+    font-family: inherit;
+    display: inline-block;
+    width: 1703px;
+    height: 2844px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .homepage-child1 {
+    position: absolute;
+    top: 4341px;
+    left: 1px;
+    width: 1915px;
+    height: 1037px;
+  }
+  .homepage-child2,
+  .homepage-child3,
+  .homepage-child4 {
+    
+    position: absolute;
+    top: 5378px;
+    left: 1px;
+    width: 1915px;
+    height: 1356px;
+  }
+  .homepage-child3,
+  .homepage-child4 {
+    top: 1989px;
+    height: 1062px;
+  }
+  .homepage-child4 {
+    top: 3051px;
+    height: 1290px;
+  }
+  .truly-bizaare {
+    font-size: var(--font-size-29xl);
+    top: 4552px;
+    left: 1155px;
+    width: 820px;
+    height: 115.78px;
+  }
+  .cutscenes-storytelling,
+  .truly-bizaare,
+  .versatility,
+  .why-to-choose1 {
+    font-family: inherit;
+    font-size: var(--font-size-29xl);
+    position: absolute;
+    font-weight: 900;
+    color: var(--color-white);
+    display: inline-block;
+  }
+  .why-to-choose1 {
+  
+    top: 5665px;
+    left: 947px;
+    font-size: var(--font-size-45xl);
+    width: 973px;
+    height: 215px;
+  }
+  .cutscenes-storytelling,
+  .versatility {
+    top: 2317px;
+    left: 1263px;
+    width: 345px;
+    height: 80px;
+  }
+  .cutscenes-storytelling {
+    top: 3375.37px;
+    left: 197px;
+    width: 533px;
+    height: 149px;
+  }
+  .f1brand1-1,
+  .mafiaboss9-2 {
+    text-decoration: none;
+    position: absolute;
+    top: 1989px;
+    left: 1px;
+    width: 971px;
+    height: 1062px;
+    background-image: url(f1brand1-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .mafiaboss9-2 {
+    top: 3051px;
+    left: 972px;
+    width: 944px;
+    height: 1290px;
+    background-image: url(mafiaboss9-2@3x.png);
+  }
+  .animations-are-instrumental,
+  .our-mission-is,
+  .these-models-are,
+  .these-models-deviate {
+    font-family: inherit;
+    position: absolute;
+    top: 4744px;
+    left: 1062px;
+    font-size: 38px;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block;
+    width: 605.68px;
+    height: 477.21px;
+  }
+  .animations-are-instrumental,
+  .our-mission-is,
+  .these-models-are {
+    top: 5955px;
+    left: 1009px;
+  }
+  .animations-are-instrumental,
+  .these-models-are {
+    top: 2440.09px;
+    left: 1108.44px;
+  }
+  .animations-are-instrumental {
+    top: 3584.78px;
+    left: 101px;
+  }
+  .abysschar2-1,
+  .flight {
+    text-decoration: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .abysschar2-1 {
+    position: absolute;
+    top: 4418px;
+    left: 320px;
+    width: 873px;
+    height: 803px;
+    background-image: url(abysschar2-1@3x.png);
+  }
+  .flight {
+    top: 5874px;
+    left: 201px;
+    background-image: url(flight@3x.png);
+  }
+  .abyss,
+  .flight,
+  .pets-icon,
+  .spartanimg {
+    position: absolute;
+    border-radius: var(--br-101xl);
+    width: 240px;
+    height: 240px;
+  }
+  .abyss {
+    text-decoration: none;
+    top: 5874px;
+    left: 481px;
+    background-image: url(abyss@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .pets-icon,
+  .spartanimg {
+    top: 6154px;
+  }
+  .pets-icon {
+    left: 201px;
+    object-fit: cover;
+  }
+  .spartanimg {
+    text-decoration: none;
+    left: 481px;
+    background-image: url(spartanimg@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .p {
+    margin: 0;
+  }
+  .bizaarestorecom-is-the,
+  .sf {
+    font-size: var(--font-size-29xl);
+    position: absolute;
+    font-weight: 900;
+    display: inline-block;
+  }
+  .sf {
+    text-decoration: none;
+    top: 13877px;
+    left: 910px;
+    font-size: 24px;
+    color: inherit;
+    width: 992.45px;
+    height: 807.42px;
+  }
+  .bizaarestorecom-is-the {
+    
+    top: 1337px;
+    left: 87px;
+    color: var(--color-white);
+    width: 1746px;
+    height: 663px;
+  }
+  .homepage {
+    overflow-x: hidden;
+    text-decoration: none;
+    position: relative;
+    background-color: var(--color-white);
+    width:1916;
+    height: 14734px;
+    text-align: left;
+    font-size: var(--font-size-45xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  
+  

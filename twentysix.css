@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    
+}
+
+
+.contentcard{
+    margin-top: 40px;
+    margin-left: 140px;
+    width: 650px;
+    height: 650px;
+    background-image: url(bullettram.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+
+.Gallery{
+    
+   color: black;
+    height: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 65px;
+}
+.logo2{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-image: url(greenblueprint2.png);
+    background-size:cover;
+    
+  
+}
+.downloadbtn{
+   
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.downloadbtn:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: rgb(185, 185, 185);
+}
+
+
+.license{
+    margin-top: 700px;
+    height:400px;
+    font-size: 20px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 120px;
+    background-color: black;
+    text-align: center;
+}

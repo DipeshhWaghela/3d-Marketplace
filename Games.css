@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    
+}
+
+
+.logo2{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-image: url(greenblueprint2.png);
+    background-size:cover;
+    
+  
+}
+
+.card{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(HELLGAME.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card2{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(SPARTANGAME.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card2:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card3{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(PLANE1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card3:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card4{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(SWISSgame.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card4:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card5{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(hoodgame.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card5:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card6{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(f1game.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card6:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+
+.card7{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(chargame.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card7:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+
+.card8{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(game8.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card8:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card9{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(CARCONFIG.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card9:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+
+

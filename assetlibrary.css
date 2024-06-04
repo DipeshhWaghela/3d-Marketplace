@@ -1,0 +1,1100 @@
+*{
+    margin: 0%;
+    
+    
+}
+
+.card2{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(clubwine.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card2:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(HOTWHEELPLANE3.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.Gallery{
+    
+   color: black;
+    height: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 65px;
+}
+.logo2{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-image: url(greenblueprint2.png);
+    background-size:cover;
+    
+  
+}
+.card3{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(classiccarpose.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card3:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card4{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(quotte1.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card4:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card5{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(crown1.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card5:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card6{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(valhallaship.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card6:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card7{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(ostrich.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card7:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card8{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(octopus.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card8:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card9{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(cart.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card9:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card10{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(wagon.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card10:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card11{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(PORTAL.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card11:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card12{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(TRAINJAPAN1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card12:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card13{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(MINECART1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card13:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card14{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(evilgod.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card14:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card15{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(TYRE1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card15:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card16{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(hotwheels.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card16:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card17{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(carton1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card17:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card18{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(bike1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card18:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card19{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(4989square.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card19:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card20{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(devourer1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card20:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card21{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(uncivilized1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card21:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card22{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(diablo1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card22:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card23{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(scifi1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card23:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card24{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(hell\ level.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card24:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card25{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(hell\ croc.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card25:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card26{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(bullettram.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card26:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card27{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(winehome.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card27:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card28{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(tank.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card28:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card29{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(HELICH.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card29:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card30{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(monsterzomb.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card30:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card31{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(spies.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card31:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card32{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(type35c.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card32:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card33{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(SPARTAN.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card33:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card34{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(scifiset01.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card34:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card35{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(catalystmap.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card35:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card36{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(scifiset02.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card36:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card37{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(spider.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card37:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card38{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(LILITH.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card38:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card39{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(F15.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card39:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card40{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(HELLETHLEVEL.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card40:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card41{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(HELLETHLEVELmap2.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card41:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card42{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(SWORD.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card42:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card43{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(TUSHI.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card43:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card44{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(modelplane.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card44:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card45{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(gundam.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card45:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card46{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(DOMINANCEMAP.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card46:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card47{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(asphaltcab.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card47:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card48{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(dumptruck.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card48:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card49{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(swiss1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card49:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card50{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(amsterdam1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card50:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card51{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(osty1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card51:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+
+.card52{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(spiderwitch.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card52:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card53{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(lowrider.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card53:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card54{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(f1track.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card54:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card55{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(stadium.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card55:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card56{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(f1car.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card56:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card57{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(skatepark.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card57:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card58{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(bmx1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card58:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card59{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(boxingring1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card59:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card60{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(tux1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card60:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card61{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(ghost1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card61:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card62{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(lioncub1080.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card62:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card63{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(LIBERTY.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card63:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card64{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(MANHATTAN.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card64:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card65{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(CATHEDRAL.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card65:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+
+
+

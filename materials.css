@@ -1,0 +1,147 @@
+*{
+    margin: 0%;
+    
+}
+.h1{
+    font-family: inherit;
+}
+
+.card2{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matwood.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card2:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matprev.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card3{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matthird.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card3:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card4{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matfouth.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card4:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card5{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matfifth.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card5:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.card6{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matsixth.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card6:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card7{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matnine.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card7:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+.card8{
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 250px;
+    height: 250px;
+    background-image: url(matseventh.png);
+    background-size:cover;
+    background-position: center;
+    float: left;
+ 
+}
+.card8:hover{
+    border: solid;
+    border-radius: 6px;
+    border-color: gray;
+}
+
+.logo2{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    background-image: url(greenblueprint2.png);
+    background-size:cover;
+    
+  
+}
