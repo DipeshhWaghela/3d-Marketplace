@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9295972985914480"
+crossorigin="anonymous"></script>
+<!---->
+</script>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free PBR Textures - Royalty Free</title>
+    <link rel="stylesheet" href="materials.css">
+    <link rel="shortcut icon" type="image/png" href="greenblueprint2.png">
+</head>
+<body>
+    
+    <!--search bar-->
+
+
+    <div style="text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
+        <h1>SEARCH MATERIALS</h1>
+        <input type="text" id="searchInput" style="padding: 5px;  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;" placeholder="FIND" onkeyup="searchName()">
+    </div>
+
+    <div id="searchResults" style="text-align: center; margin-top: 20px;"></div>
+    <!--
+    <ul id="namesList" style="list-style-type: none; padding: 0;">
+        <li>John Doe</li>
+        <li>Jane Smith</li>
+        <li>Bob Johnson</li>
+        <li>Alice Brown</li>
+        <li>David Wilson</li>
+    </ul>
+    -->
+
+    <script>
+        // Sample data for names and links
+        const data = [
+            { name: "soil", link: "content.html" },
+            { name: "dark soil", link: "content3.html" },
+            { name: "flower", link: "content4.html" },
+            // Add more names and links as needed
+        ];
+
+        function searchName() {
+            const searchInput = document.getElementById("searchInput").value;
+            const searchResults = document.getElementById("searchResults");
+            searchResults.innerHTML = "";
+
+            // Filter the data based on the first letter of the input
+            const filteredData = data.filter(item => item.name.toLowerCase().startsWith(searchInput.toLowerCase()));
+
+            if (filteredData.length === 0) {
+                searchResults.textContent = "No results found.";
+            } else {
+                filteredData.forEach(item => {
+                    const resultLink = document.createElement("a");
+                    resultLink.href = item.link;
+                    resultLink.textContent = item.name;
+                    resultLink.style.marginRight = "10px";
+                    searchResults.appendChild(resultLink);
+                });
+            }
+        }
+    </script>
+   
+
+   <div class="logo2"></div>
+
+    <div class="card"  title="free soil PBR Textures"> <a href="content.html"><img src="transparent.png" width="100%" alt="free soil PBR Textures"></a> </div>
+    <div class="card2" title="free wood PBR Textures"> <a href="content2.html"><img src="transparent.png"width="100%" alt="free wood PBR Textures"></a></div>
+    <div class="card3" title="free dark soil PBR Textures"> <a href="content3.html"><img src="transparent.png"width="100%" alt="free dark soil PBR Textures"></a></div>
+    <div class="card4" title="free FLOWER PBR Textures"> <a href="content4.html"><img src="transparent.png"width="100%" alt="free FLOWER PBR Textures"></a></div>
+    <div class="card5" title="free trunk PBR Textures"> <a href="content5.html"><img src="transparent.png"width="100%" alt="free trunk PBR Textures"></a></div>
+    <div class="card6" title="free tree PBR Textures"> <a href="content6.html"><img src="transparent.png"width="100%" alt="free tree PBR Textures"></a></div>
+    <div class="card7" title="free dark wood PBR Textures"> <a href="content7.html"><img src="transparent.png"width="100%" alt="free dark wood Textures"></a></div>
+    <div class="card8" title="free sand PBR Textures"> <a href="content8.html"><img src="transparent.png"width="100%" alt="free sand PBR Textures"></a></div>
+    <div class="card9" title="free soil PBR Textures"> <a href="content2.html"><img src="transparent.png"width="100%" alt="free soil PBR Textures"></a></div>
+    
+
+
+   
+</body>
+</html>

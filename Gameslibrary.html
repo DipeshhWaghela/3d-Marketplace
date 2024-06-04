@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+ <!-- Google tag (gtag.js) -->
+
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9295972985914480"
+ crossorigin="anonymous"></script>
+
+<!---->
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Game Source Code - Royalty FREE</title>
+    <link rel="stylesheet" href="Games.css">
+    <link rel="shortcut icon" type="image/png" href="greenblueprint2.png">
+</head>
+<body>
+
+    <div style="text-align: center;padding-top: 30px;">
+     
+        <a href="#" id="openGmailCompose" style="text-decoration: none; padding: 10px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">REQUEST GAME</a>
+    </div>
+
+    <script>
+        const openGmailCompose = document.getElementById("openGmailCompose");
+
+        openGmailCompose.addEventListener("click", function() {
+            window.open("https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=dpshvagl@gmail.com");
+        });
+    </script>
+    
+    <div style="text-align: center; padding-top: 30px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; ">
+        <h1>SEARCH GAMES</h1>
+        <input type="text" id="searchInput" style="padding: 5px;  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;" placeholder="FIND" onkeyup="searchName()">
+    </div>
+
+    <div id="searchResults" style="text-align: center; margin-top: 20px;"></div>
+    <!--
+    <ul id="namesList" style="list-style-type: none; padding: 0;">
+        <li>John Doe</li>
+        <li>Jane Smith</li>
+        <li>Bob Johnson</li>
+        <li>Alice Brown</li>
+        <li>David Wilson</li>
+    </ul>
+    -->
+
+    <script>
+        // Sample data for names and links
+        const data = [
+            { name: "simulation", link: "game3.html" },
+            { name: "garage", link: "game5.html" },
+            { name: "action", link: "game2.html" },
+            { name: "arpg", link: "game1.html" },
+            { name: "racing", link: "game6.html" },
+            // Add more names and links as needed
+        ];
+
+        function searchName() {
+            const searchInput = document.getElementById("searchInput").value;
+            const searchResults = document.getElementById("searchResults");
+            searchResults.innerHTML = "";
+
+            // Filter the data based on the first letter of the input
+            const filteredData = data.filter(item => item.name.toLowerCase().startsWith(searchInput.toLowerCase()));
+
+            if (filteredData.length === 0) {
+                searchResults.textContent = "PROVIDE FULL NAME SUCH AS - SIMULATION, ARPG";
+            } else {
+                filteredData.forEach(item => {
+                    const resultLink = document.createElement("a");
+                    resultLink.href = item.link;
+                    resultLink.textContent = item.name;
+                    resultLink.style.marginRight = "10px";
+                    searchResults.appendChild(resultLink);
+                });
+            }
+        }
+    </script>
+
+   <div class="logo2"></div>
+
+    <div class="card" title="Diablo clone source code game"> <a href="game1.html"><img src="transparent.png" width="100%" alt="Diablo game "></a> </div>
+    <div class="card2" title="FPS game source code game"> <a href="game2.html" ><img src="transparent.png" width="100%" alt="FPS GAME"></a> </div>
+    <div class="card3" title="flight simulator source code game "> <a href="game3.html" ><img src="transparent.png" width="100%" alt="flight simulator Game"></a> </div> 
+    <div class="card4" title="flight simulator source code game "> <a href="game4.html" ><img src="transparent.png" width="100%" alt="flight simulator Game"></a> </div> 
+    <div class="card5" title="car customization source code game "> <a href="game5.html" ><img src="transparent.png" width="100%" alt="car customization Game"></a> </div> 
+    <div class="card6" title="f1mobile game source code game "> <a href="game6.html" ><img src="transparent.png" width="100%" alt="f1 mobile Game"></a> </div> 
+    <div class="card7" title="character game source code game "> <a href="game7.html" ><img src="transparent.png" width="100%" alt="character custom Game"></a> </div> 
+    <div class="card8" title="FASHIONWALK SOURCE CODE "> <a href="game8.html" ><img src="transparent.png" width="100%" alt="FASHIONWALK Game"></a> </div> 
+    <div class="card9" title="FREE CAR CONFIGURATOR SOURCE CODE "> <a href="game9.html" ><img src="transparent.png" width="100%" alt="car CONFIGURATOR Game"></a> </div> 
+    
+ 
+    
+
+   
+</body>
+</html>
